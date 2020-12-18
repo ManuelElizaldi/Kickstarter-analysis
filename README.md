@@ -1,4 +1,5 @@
 # An Analysis on Kickstarter Campaigns
-![](CrowdfundingAnalysis\OutcomesBasedonLaunchDate.png)
 
-![](CrowdfundingAnalysis\ParentCategoryOutcomes.png)
+![OutcomesBasedLaunchDate](CrowdfundingAnalysis\OutcomesBasedonLaunchDate.png)
+
+![ParentCategoryOutcomes](CrowdfundingAnalysis\ParentCategoryOutcomes.png)
